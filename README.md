@@ -1,5 +1,5 @@
 # 🏡 ubuntu-home-vpn-server  
-### Turn an Ubuntu Laptop Into a Reliable Home Server + Personal VPN
+### Turn a Laptop Into a Reliable Home Server + Personal VPN
 
 A step‑by‑step guide for converting a laptop with Ubuntu Linux installed into a reliable **home server** and **personal VPN** using **Tailscale**.
 
