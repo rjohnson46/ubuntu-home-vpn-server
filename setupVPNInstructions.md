@@ -1,6 +1,6 @@
 # 🖥️ Ubuntu Laptop Home Server + Personal VPN (Tailscale Exit Node)
 
-This guide walks you through converting an Ubuntu laptop into a reliable **home server** and a **personal VPN** using Tailscale.  
+This guide walks you through converting a laptop with Ubuntu Linux installed into a reliable **home server** and a **personal VPN** using Tailscale.  
 You’ll configure the laptop to stay awake with the lid closed, then set it up as a secure VPN exit node accessible from anywhere.
 
 * * *
